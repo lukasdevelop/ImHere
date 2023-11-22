@@ -43,5 +43,10 @@ export const styles = StyleSheet.create({
         backgroundColor: '#31CF67',
         alignItems: 'center',
         justifyContent: 'center'
+    },
+    listEmptyText: {
+      color: '#FFF',
+      fontSize: 14,
+      textAlign: 'center'
     }
   })
